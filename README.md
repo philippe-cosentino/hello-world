@@ -1,2 +1,3 @@
 # hello-world
-Il faut bien commencer ...
+Il faut bien s'entraîner !
+Bla bla bla
